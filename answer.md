@@ -9,7 +9,7 @@
 In a fast-paced startup environment, I would strategically integrate AI tools at key points in the development workflow to maintain velocity without compromising quality:
 
 **For Component Development:**
-I would use GitHub Copilot or Claude to scaffold repetitive UI components. For instance, when needing a complex form with validation, I'd prompt: "Create a React order form component with address fields, payment method selection, and Formik validation." This typically saves 1-2 hours per component while maintaining consistent patterns.
+I would use GitHub Copilot, Claude or gpt to scaffold repetitive UI components. For instance, when needing a complex form with validation, I'd prompt: "Create a React order form component with address fields, payment method selection, and Formik validation." This typically saves 1-2 hours per component while maintaining consistent patterns.
 
 **For CSS/Styling:**
 I'd leverage AI to generate baseline Tailwind CSS classes from design mockups. Example: inputting a Figma URL to an AI tool like V0 to generate the initial responsive layout code, then manually refining for performance and accessibility.

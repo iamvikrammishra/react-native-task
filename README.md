@@ -22,7 +22,7 @@ A simple React Native dictionary app that allows users to look up definitions of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dictionary-app.git
+   git clone https://github.com/iamvikrammishra/react-native-task.git
    cd dictionary-app
    
 
