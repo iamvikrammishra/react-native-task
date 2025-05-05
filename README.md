@@ -33,8 +33,7 @@ A simple React Native dictionary app that allows users to look up definitions of
 
 3. Start the development server:
    ```bash
-   npm start
-   
+   npm expo start -c   
 
 4. Follow the instructions in the terminal to open the app:
    - For iOS: Press `i` in the terminal or use the QR code with the Expo Go app
